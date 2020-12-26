@@ -1,0 +1,27 @@
+CATMAN TEST FILE
+PATH=C:\Users\Ch\Desktop\Rosenthal\2007_HTT
+Jobname=Job1
+Messwertdatei mit Sicherungspfad=C:\Users\Ch\Desktop\Rosenthal\2007_HTT\DD11_7_3.ASC
+Messwertdatei=DD11_7_3.ASC
+Messprojekt=Hot tensile test.MEP
+Dateikommentar=
+Zeitzone=Mitteleuropäische Sommerzeit (UTC+2:00)
+Bearbeiter=
+Abteilung=
+Kommentar=
+Standardmessrate=50 Hz
+Langsame Messrate=5 Hz
+Schnelle Messrate=2400 Hz
+Anzahl Messwerte Standardmessrate=1656
+Anzahl Messwerte langsame Messrate=0
+Anzahl Messwerte schnelle Messrate=0
+Sicherungsmodus=PROMPT
+Master/Slave-Modus=Nein
+Startmodus=Manuell
+Startzeit=2020/07/08 18:25:16
+Stopmodus=Manuell
+Stopzeit=2020/07/08 18:25:50
+catmanEasy/AP version=5.3.1.27
+Numerische Genauigkeit=8 Byte Float
+Firmware MX840B=4.12.32.0
+DATAFILE=C:\Users\Ch\Desktop\Rosenthal\2007_HTT\DD11_7_3.ASC
